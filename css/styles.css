@@ -22,12 +22,12 @@ body {
 }
 
 ::selection {
-    color: #fff;
+    color: #000000;
     background: #00bfff;
 }
 
 ::-moz-selection {
-    color: #fff;
+    color: #000000;
     background: #00bfff;
 }
 
@@ -51,6 +51,7 @@ h1, h2, h3, h4, h5, h6 {
 
 .pDark h3 {
     color: #31B0CE;
+    text-align: center;
 }
 
 .btn {
@@ -332,6 +333,7 @@ a {
 .page-section p {
     font-size: 1.1em;
     line-height: 1.6em;
+    text-align: center;
 }
 
 .darkBg {
